@@ -29,10 +29,17 @@ I also keep a [portfolio repo](https://github.com/anakha15307/ai-governance-port
 with two full case studies: an LLM evaluation case study and a Khanmigo
 risk assessment.
 
-## Tools
+## Technical skills
 
-Python (standard library where possible), NIST AI RMF, ISO/IEC 42001,
-EU AI Act analysis, LLM evaluation methods, GitHub Actions.
+Python (standard library, CLI tooling, JSON), LLM safety and bias evaluation,
+red teaming, risk tiering, model registries, monitoring and incident response,
+NIST AI RMF, ISO/IEC 42001, EU AI Act analysis, GitHub Actions, Markdown
+documentation, and reproducible research reporting.
+
+## Links
+
+- [Portfolio case studies](https://github.com/anakha15307/ai-governance-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/anakhavijayan)
 
 ## Where I'm headed
 
